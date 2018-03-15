@@ -1,3 +1,3 @@
 this is just a test text file to check how to create repos and branches and to practice on the whole branching thing on github
 
-this file should exist both in the 'master' branch and the 'new_branch' branch.
+this file should exist both in the 'master' branch and the 'new_branch' branch - although this line (3 onwards) will only exist in the 'master' branch and not in the 'new_branch' branch.
